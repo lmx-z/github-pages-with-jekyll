@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to LMX blog"
 ---
 
-I am planning to write something here...
+=======
+I will write something here...
